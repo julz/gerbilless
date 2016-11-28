@@ -1,3 +1,5 @@
+![Image of a Gerbil](http://www.petscorner.co.uk/petopedia/wp-content/uploads/Gerbil-8.jpg)
+
 # Gerbilless
 
-An entire gerbil-less framework in Golang. Zero Gerbils. Additionally, zero servers. Except the ones you run Gerbilless on.
+A serverless framework in Golang. No servers AND no rodents. Can't say fairer than that.
